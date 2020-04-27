@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "889350939778",
+    "firebase_url": "https://atkrequest.firebaseio.com",
+    "project_id": "atkrequest",
+    "storage_bucket": "atkrequest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889350939778:android:807d0aa6cb64a424fcc09b",
+        "android_client_info": {
+          "package_name": "com.enjewe.atk_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889350939778-es0aqa2ic72eu1hmmc87iamm8cbcveju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHGbCnXW6VMa6a65W18YjARkNUfJargI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889350939778-es0aqa2ic72eu1hmmc87iamm8cbcveju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889350939778:android:713225b321a08efbfcc09b",
+        "android_client_info": {
+          "package_name": "com.enjewe.atktemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889350939778-es0aqa2ic72eu1hmmc87iamm8cbcveju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfHGbCnXW6VMa6a65W18YjARkNUfJargI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889350939778-es0aqa2ic72eu1hmmc87iamm8cbcveju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
